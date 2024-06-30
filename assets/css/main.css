@@ -1,6 +1,8 @@
 /* css for logo */
 
 .main-nav a img {
+    /* width: 100%; */
     border-radius: 20px;
+    /* background: cover; */
     /* background: transparent; */
 }
